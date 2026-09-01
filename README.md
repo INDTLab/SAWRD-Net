@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/title.png" alt="image" width="100%">
+  <img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/title.png" alt="image" width="70%">
 </p>
 
 <p align="center"> 
@@ -11,7 +11,7 @@
 
 # Architecture
 <p align="center">
-  <img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/architecture.png" alt="image" width="100%">
+  <img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/architecture.png" alt="image" width="70%">
 </p>
 
 # Usage
