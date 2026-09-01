@@ -1,4 +1,6 @@
-![image](assets/title.png)
+<p align="center">
+  <img src="assets/title.png" alt="image" width="100%">
+</p>
 
 <p align="center"> 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326017851" ><img src="https://img.shields.io/badge/HOME-PR-blue.svg"></a>
@@ -8,7 +10,9 @@
 </p>
 
 # Architecture
-![image](assets/architecture.png)
+<p align="center">
+  <img src="assets/architecture.png" alt="image" width="100%">
+</p>
 
 # Usage
 ### Installation
