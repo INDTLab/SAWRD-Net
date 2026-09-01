@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/title.png" alt="image" width="100%">
+  <img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/title.png" alt="image" width="100%">
 </p>
 
 <p align="center"> 
@@ -11,7 +11,7 @@
 
 # Architecture
 <p align="center">
-  <img src="assets/architecture.png" alt="image" width="100%">
+  <img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/architecture.png" alt="image" width="100%">
 </p>
 
 # Usage
@@ -50,8 +50,8 @@ You can run evaluate.ipynb in Jupyter Notebook to calculate the TP Rate.
 
 # Results
 
-<div align=center><img src="assets/results.png" width=60%></div>  
-<div align=center><img src="assets/results2.png" width=60%></div>  
+<div align=center><img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/results.png" width=60%></div>  
+<div align=center><img src="https://raw.githubusercontent.com/INDTLab/SAWRD-Net/main/assets/results2.png" width=60%></div>  
 
 # Citation
 ```
